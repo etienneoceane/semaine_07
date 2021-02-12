@@ -1,0 +1,23 @@
+#sinscrire
+{
+    text-align: center;
+}
+
+/* .card-img-tope
+{
+    width: 600px !important;
+} */
+
+.card{
+
+    margin: auto;
+}
+
+
+
+#collapsibleNavbardark
+{
+    display:flex;
+    justify-content: center;
+   
+}
